@@ -45,3 +45,11 @@ while i < 5:
 # Jueves 
 # viernes
 
+
+i = 0
+mi_lista_2 = ["lunes", "martes", "miercoles","jueves", "viernes"]
+while 1 < 3:
+   i +=1
+   for d in mi_lista_2:
+    if d !="lunes":
+      print (d)
